@@ -1,0 +1,36 @@
+{
+	"menu":
+	[{
+		"id": "SkQexeNzo29081619",
+			"type": "store",
+			"title": "Happiness Bakery",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/happiness_bakery/images/happiness_bakery.jpg",
+			"caption": "Bake with HAPPINESS, Share with LOVE Breads | Cake | Cookies https://www.instagram.com/happinessbakery.id/"
+
+		}, {
+			"id": "SkQexeNzo29081618",
+			"type": "store",
+			"title": "Choipan Si Mamak",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/choipan_si_mamak/images/choipan.jpg",
+			"caption": ""
+		}, {
+			"id": "Q5NJj8T5X17123424",
+			"type": "article",
+			"title": "Pempek Dos Sriwijaya",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/pempek_dos_sriwijaya/images/pempek_dos_sriwijaya.jpg",
+			"caption": "Traditional Food = Awesome Thing to be tasted"
+		}, {
+			"id": "SkQexeNzo29081616",
+			"type": "store",
+			"title": "Lumpia Semarang Enak",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/lumpia_semarang_enak/images/lumpia_semarang_enak.jpg",
+			"caption": ""
+		}, {
+			"id": "SkQexeNzo29081625",
+			"type": "produck",
+			"title": "Pempek Paket 2 C",
+			"name": "Pempek Tenny",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081625/product/QjFmF3zvherr9Bqo9/images/pempek_paket_c.jpg",
+			"caption": ""
+	}]
+}

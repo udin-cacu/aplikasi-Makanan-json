@@ -1,0 +1,685 @@
+{
+	"menu": {
+		"articles": [{
+			"id": "SkQexeNzo29081619",
+			"type": "store",
+			"title": "Happiness Bakery",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/happiness_bakery/images/happiness_bakery.jpg",
+			"caption": "Bake with HAPPINESS, Share with LOVE Breads | Cake | Cookies https://www.instagram.com/happinessbakery.id/"
+		}, {
+			"id": "SkQexeNzo29081618",
+			"type": "store",
+			"title": "Choipan Si Mamak",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/choipan_si_mamak/images/choipan.jpg",
+			"caption": ""
+		}, {
+			"id": "Q5NJj8T5X17123424",
+			"type": "article",
+			"title": "Pempek Dos Sriwijaya",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/pempek_dos_sriwijaya/images/pempek_dos_sriwijaya.jpg",
+			"caption": "Traditional Food = Awesome Thing to be tasted"
+		}, {
+			"id": "SkQexeNzo29081616",
+			"type": "store",
+			"title": "Lumpia Semarang Enak",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/lumpia_semarang_enak/images/lumpia_semarang_enak.jpg",
+			"caption": ""
+		}],
+		"products": [{
+			"id": "QjFmF3zvherr9Bqo9",
+			"title": "Pempek Paket 2 C",
+			"store": {
+				"id": "SkQexeNzo29081625",
+				"name": "Pempek Tenny",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081625/images/4892D3EA-916C-45C4-B9E7-F5ED3F903E34.jpeg"
+			},
+			"price": "IDR 223.000",
+			"per": "Paket (2 kg)",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081625/product/QjFmF3zvherr9Bqo9/images/pempek_paket_c.jpg"
+		}, {
+			"id": "RzXbaeWT7aq4xtjwA",
+			"title": "Baklava (20x20cm)",
+			"store": {
+				"id": "SkQexeNzo29081613",
+				"name": "Precious Kitchen",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081613/images/IMG_2499.JPG"
+			},
+			"price": "IDR 70.000",
+			"per": "box",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081613/product/RzXbaeWT7aq4xtjwA/images/baklava.jpg"
+		}, {
+			"id": "GeDddmNGdg7g9TPbu",
+			"title": "Nasi Ikan Suwir",
+			"store": {
+				"id": "SkQexeNzo29081613",
+				"name": "Precious Kitchen",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081613/images/IMG_2499.JPG"
+			},
+			"price": "IDR 22.000",
+			"per": "box",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081601/product/GeDddmNGdg7g9TPbu/images/nasi_ikan_suwir.jpg"
+		}, {
+			"id": "mA8ZJzQkDJAXFL7Ka",
+			"title": "Kue Bingka Kentang Mini (Original)",
+			"store": {
+				"id": "SkQexeNzo29081627",
+				"name": "Dapoer Banjar Jkt",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081627/images/B6FE0960-7688-469F-A006-DF3292D3FECB.jpeg"
+			},
+			"price": "IDR 40.000",
+			"per": "box (10pcs/box)",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081627/product/mA8ZJzQkDJAXFL7Ka/images/kue_bingka_kentang_mini.jpg"
+		}, {
+			"id": "yMAymckkY2aWftx7W",
+			"title": "Paket C Siomay Aja",
+			"store": {
+				"id": "SkQexeNzo29081622",
+				"name": "Siomay Bang Pik",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081622/images/logo_bang_pik.jpg"
+			},
+			"price": "IDR 90.000",
+			"per": "box (30pcs/box)",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081622/product/yMAymckkY2aWftx7W/images/paket_c_siomay.jpg"
+		}, {
+			"id": "F5thZjQ9G2LAz3YNW",
+			"title": "Cinnamon Rolls Cream Cheese",
+			"store": {
+				"id": "SkQexeNzo29081626",
+				"name": "Alana Cake House",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081626/images/F5FBC4EF-83F0-4996-B905-889AF9AA0922.jpeg"
+			},
+			"price": "IDR 125.000",
+			"per": "pan",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081626/product/F5thZjQ9G2LAz3YNW/images/cinnamon_rolls.jpg"
+		}, {
+			"id": "cL66zCMpNQPXMCrFe",
+			"title": "Rendang Rere 250 gr",
+			"store": {
+				"id": "SkQexeNzo29081632",
+				"name": "Rendang Rere",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081632/images/rendangRere.jpg"
+			},
+			"price": "IDR 95.000",
+			"per": "box",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081632/product/cL66zCMpNQPXMCrFe/images/250.jpeg"
+		}, {
+			"id": "E4FnZk8hmkJWsz3db",
+			"title": "Paket Nasi Tahu Tempe",
+			"store": {
+				"id": "SkQexeNzo29081602",
+				"name": "Nasi Bakar 58",
+				"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/nasi_bakar_58/images/nasi_bakar-logo.jpg"
+			},
+			"price": "IDR 29.000",
+			"per": "Box",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081602/product/E4FnZk8hmkJWsz3db/images/nasi_tahu_tempe.jpg"
+		}, {
+			"id": "8QHdY85brtL9EMS4g",
+			"title": "Pempek Pistel",
+			"store": {
+				"id": "SkQexeNzo29081615",
+				"name": "Pempek Dos Sriwijaya",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081615/images/IMG_20170913_002748.jpg"
+			},
+			"price": "IDR 3.000",
+			"per": "Box",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081615/product/8QHdY85brtL9EMS4g/images/pempek_pistel.jpg"
+		}, {
+			"id": "7bLkxZuTBFgzYcMvg",
+			"title": "Pinugg Original Big",
+			"store": {
+				"id": "SkQexeNzo29081629",
+				"name": "Picang Nugget",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081629/images/picang_nugget.jpg"
+			},
+			"price": "IDR 18.000",
+			"per": "box (18 pcs/box)",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081629/product/7bLkxZuTBFgzYcMvg/images/WhatsApp_Image_2017-10-27_at_10.10.21_PM_(3).jpeg"
+		}],
+		"stores": [{
+			"id": "SkQexeNzo29081633",
+			"title": "Rumah Makan Asiang 9",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081633/images/asiang.png"
+		}, {
+			"id": "SkQexeNzo29081602",
+			"title": "Nasi Bakar 58",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/nasi_bakar_58/images/nasi_bakar-logo.jpg"
+		}, {
+			"id": "SkQexeNzo29081632",
+			"title": "Rendang Rere",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081632/images/rendangRere.jpg"
+		}, {
+			"id": "SkQexeNzo29081624",
+			"title": "Choipan Mami Tio",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081624/images/choipan_mamitio.jpg"
+		}, {
+			"id": "SkQexeNzo29081635",
+			"title": "Ayam Tangkap Mamah Janny",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081635/images/ayamtangkap_janny.jpg"
+		}, {
+			"id": "SkQexeNzo29081631",
+			"title": "Bakpia Bagong",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081631/images/bagong.jpg"
+		}, {
+			"id": "SkQexeNzo29081615",
+			"title": "Pempek Dos Sriwijaya",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081615/images/IMG_20170913_002748.jpg"
+		}, {
+			"id": "SkQexeNzo29081629",
+			"title": "Picang Nugget",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081629/images/picang_nugget.jpg"
+		}],
+		"tags": [{
+			"keyword": "Nasi"
+		}, {
+			"keyword": "Cake"
+		}, {
+			"keyword": "Siomay"
+		}, {
+			"keyword": "Original"
+		}, {
+			"keyword": "Paket"
+		}, {
+			"keyword": "Mie"
+		}, {
+			"keyword": "Cemilan"
+		}, {
+			"keyword": "Ayam"
+		}]
+	},
+	"articles": [{
+			"id": "SkQexeNzo29081601",
+			"type": "store",
+			"title": "Nasi Koko",
+			"date": "11/16/2016, 4:36:20 PM",
+			"caption": "Juaranya Nasi Khas Bali ada di sini",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/channel/nasi_koko/images/nasi_koko-headline.jpg"
+		},
+		{
+			"id": "Q5NJj8T5X17123104",
+			"type": "article",
+			"title": "William Wijaya",
+			"date": "11/16/2016, 4:36:20 PM",
+			"caption": "'Sehat' dan 'enak' menjadi satu kesatuan yang nikmat, berkualitas dan terjangkau",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/profile/william_wijaya/images/oatbrownies.jpg",
+			"quote": "Mana lebih baik 'sehat' atau 'enak'? William Wijaya mencoba mengemasnya menjadi satu kesatuan yang nikmat, berkualitas dan terjangkau",
+			"html": "<div> <p>Awal dari kecintaan William dengan makanan dan memasak diturunkan dari sang ibu yang juga senang membuat kue, ayah dari dua orang putra ini belajar memasak secara otodidak, mulai dengan resep dasar, peralatan masak yang konvensional sampai yang modern, hingga bereksperimen untuk menciptakan rasa yang \"wow\". Sangat beruntung bagi William memiliki istri yang juga senang memasak. Berkat tekat William serta dukungan dari sang istri pula, ide bisnis kuliner yang menjadi passion William dapat terealisasikan sejak 3 tahun yang lalu dengan nama Deliciozo, yang berarti lezat dalam bahasa spanyol.</p> <img src=\"https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/profile/william_wijaya/images/william.jpg\" width=\"100%\"> <p>Roti tawar gandum, roti multigrain, dan granola menjadi produk andalan William dan istri yang mulai sadar akan hidup sehat. Menurut pria yang suka sekali lari ini, roti gandum ataupun granola sangat pas menjadi sarapan untuk memulai hari yang sehat. Cocok juga sebagai cemilan yang sehat disaat jam-jam tanggung untuk menunggu waktu jam makan. Untuk orang-orang yang sedang dalam program penurunan berat badan, gandum sangat baik karena membuat rasa kenyang yang tahan lama, selain itu dapat menurunkan kadar kolesterol, tekanan darah, dan baik untuk kesehatan jantung dan otak.</p> <img src=\"https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/profile/william_wijaya/images/happy_chix.jpeg\" width=\"100%\"> <p>Produk-produk Deliciozo diproses langsung oleh William dan istri. Mulai dari pemilihan bahan-bahan baku, persiapan kemasan produk, kebersihan alat-alat, serta tanpa bahan pengawet dan pewarna. William dan istri juga memperhatikan jumlah pemakaian lemak dan gula yang digunakan agar tetap rendah namun tetap enak.</p> <img src=\"https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/profile/william_wijaya/images/mie_ijo.jpeg\" width=\"100%\"> <p>\"Roti-roti dan granola dibuat fresh dan handmade oleh saya dan istri, dengan bahan-bahan yang terjamin seperti kami membuat makanan untuk anak-anak kami dan diri kami sendiri.\" ujar William.</p> <p>William pun senang sekali berbagi cara-cara menikmati roti gandum dan granola yang tentunya sehat dan enak pada akun instagram <a href=\"https://www.instagram.com/deliciozojkt/\" target=\"_blank\" style=\"color:green\">@deliciozojkt</a>. Kedepannya, William dan istri sedang mempersiapkan varian rasa baru dan produk makanan sehat lainnya yang pastinya enak untuk menjadi makanan sehat yang favorit bagi banyak orang.</p> <img src=\"https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/profile/william_wijaya/images/william_son.jpg\" width=\"100%\"> <p style=\"font-weight: bold; font-style: italic;\"> \"Ada banyak cara yang enak dan tetap sehat dan enak untuk menikmati hidup.\" - William Wijaya (Owner Deliciozo)</p> </div>"
+		},
+		{
+			"id": "Q5NJj8T5X17123103",
+			"type": "article",
+			"title": "Aurelia Suci",
+			"date": "11/16/2016, 4:36:20 PM",
+			"caption": "Baking itu tidak berhenti berinovasi",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/profile/aurelia_suci/images/aurelia_suci-headline.jpg",
+			"quote": "Memasak itu tidak susah, setiap orang punya selera dan taste yang tinggi",
+			"html": "<div> <p>Pada kesempatan ini, tim Kimi mengunjungi founder dari Sucicakes, Aurelia Suci, Di kawasan Kebon Jeruk. Terlihat dia sedang ada pesanan brownies panggang. Tak lama, setelah orderannya selesai, kami disuguhkan brownies buatannya sambil berbincang.</p> <p>Aurelia Suci yang akrab dipanggil Suci adalah wanita kelahiran Solo adalah seorang istri dengan dua anak. Dia lahir di Solo namun tumbuh besar di Malang. Kuliner Malang memang terkenal cukup variatif, tahu campur, rujak cingur, gado-gado, apalagi baksonya. Tutur wanita 31 tahun ini. Tak heran culinary Kota Malang cukup mempengaruhi citarasa masakan Suci.</p> <img src=\"https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/profile/aurelia_suci/images/aurelia_suci-2.jpg\"> <p>Suci memang sudah tidak bekerja. Dia fokus di rumah menjaga dua buah hatinya. Tapi hasrat memasak tidak pernah hilang. Setiap ada waktu senggang, dia sering mencoba resep-resep baru dan chef-chef favoritnya. Misal chef Sisca, Farah Quinn, dan Rinrin Marinka. Dia juga sering mencari inspirasi dari Youtube, Instagram, Pinterest serta buku-buku memasak lainnya. Pinterest sama IG memang fotonya bagus-bagus. Jangan coba satu resep saja, coba compare dari beberapa, chef. Biasanya gak sama. Atau kalau ragu, saya coba combine sendiri.</p> <img src=\"https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/profile/aurelia_suci/images/aurelia_suci-3.jpg\"> <p>Sucicakes berawal dari menu Brownies. Brownies dengan beberapa varian topping dan base. Misal alas nutella dengan toping keju, atau cream dengan topping meises. Brownies masih jadi menu best seller Sucicakes. Waktu itu alhamdulillah hampir tiap hari ada pesanan. Awalnya dari circle sekolahan anak, akhirnya meluas dengan sendirinya.</p> <p>Sucicakes akhirnya menjadi brand pilihan Suci. “Simple dan mudah diingat” tuturnya. Suaminya kemudian mencoba membuatkan logo, sticker dan website sederhana <a href=\"http://www.sucicakes.com\" target=\"_blank\" class=\"maya-text-orange\">Sucicakes.com</a>, dan jadilah website tersebut menjadi catalog online untuk kue-kue Suci. Dia juga aktif di instagram dengan account <a href=\"http://www.instagram.com/aureliasuci\" class=\"maya-text-orange\" target=\"_blank\">Aureliasuci.</a> Tiap praktek pasti aku posting, ucapnya.</p> <img src=\"https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/profile/aurelia_suci/images/aurelia_suci-4.jpg\"> <p>Bahan-bahan yang dipakai oleh Suci memang bukan sembarangan. Saya tidak mau beli cokelat murah kiloan, karena takut merusak rasa. Lagipula khawatir tidak sehat. Orang-orang yg beli product Sucicakes itu kebanyakan untuk dikonsumsi anak dan anggota keluarga lain. Jadi Saya sangat menjaga kualitas bahan. Belanjanya seminggu sekali langsung jumlah banyak.</p> <p>Tahun ini, selain menambah media promosi di media online, Sudi berencana dan membangun dapur khusus untuk Sucicakes, mencari tenaga tambahan lagi satu orang, dan menambah beberapa perlengkapan produksi kue. Saat ditanya kapan akan membuat toko fisik, “doakan saja tahun depan kejadian. Tahun ini nambah dapur, kompor sama oven dulu. Jawabnya sambil tertawa.</p> <p>Amiin ya Suci, semoga cepat terkabul cita-citanya ya, kami team Kimi pasti akan mengunjungi toko kamu.</p> </div>"
+		},
+		{
+			"id": "Q5NJj8T5X17123101",
+			"type": "article",
+			"title": "Amelia Kurniawan",
+			"date": "11/16/2016, 4:36:20 PM",
+			"caption": "Menghasilkan nasi bakar dengan kualitas terbaik tidak bisa digantikan dengan pemakaian mesin",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/profile/amelia_kurniawan/images/amelia_kurniawan-headline.jpg",
+			"quote": "\"Nasi Bakar 58 adalah nasi berbumbu santan yang sangat bercita rasa Indonesia dengan isi, ayam, teri, atau ikan yang memiliki aroma khas karena proses pembakaran yang tradisional dengan bungkusan daun pisang.\" - Amelia Kurniawan (Owner Nasi Bakar 58)",
+			"html": "<div> <p>Amelia Kurniawan yang akrab dipanggil Amel, wanita kelahiran Semarang ini adalah seorang istri yang merangkap sebagai pemilik Nasi Bakar 58. Bisnis kuliner yang digelutinya sejak 3 tahun lalu dikerjakan Amel beserta tim kecilnya secara hand made.</p> <p>\"Bagi kami untuk menghasilkan nasi bakar dengan kualitas terbaik tidak bisa digantikan dengan pemakaian mesin.\" jelas Amel.</p> <p>Kualitas bahan-bahan yang digunakan konsisten dicek dan dicoba dengan standarisasi yang telah dibuat Amel.</p> <img src=\"https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/profile/amelia_kurniawan/images/amelia.jpg\" width=\"100%\"> <p>Amel yang sedari kecil ingin menjadi seorang business woman, membagikan proses pembuatan nasi bakar, yaitu dimulai dengan nasi gurih yang sudah matang dicetak diatas daun pisang, lalu isi dengan ayam atau ikan yang telah ditumis, serta tak lupa daun kemangi, garam, lada, dan gula, bungkus lalu bakar, dan nasi bakar siap disantap.</p> <img src=\"https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/profile/amelia_kurniawan/images/amelia_suami.jpg\" width=\"100%\"> <p>Nasi Bakar 58 tercipta karena keinginan Amel menantang dirinya untuk berani memiliki usaha sendiri. Berbekal pendidikan hospitality/perhotelan, kecintaan dalam memasak, hingga bekerja beberapa tahun di bidang Food and Beverages dan retail membuatnya makin yakin dan terus belajar untuk membuat produk yang dicintai banyak orang.</p> <p>Bagi Amel sendiri, nasi bakar merupakan sajian dapat dihidangkan kapan saja dan dimana saja, karena hampir sebagaian besar warga Indonesia sangat mencintai nasi dan tidak bisa lepas dari nasi, nasi bakar bisa mengisi saat-saat berkumpul dengan keluarga, merayakan hari raya, berjumpa dengan kerabat, silaturahmi, bahkan perayaan ulangtahun.</p> <img src=\"https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/profile/amelia_kurniawan/images/nasi_bakar_58_channel.jpg\" width=\"100%\"> <p>Bagian yang paling disukai wanita lulusan Southern Cross University of Sydney, dalam proses membuat Nasi Bakar 58 yaitu packing. \"Karena itu artinya pesanan customer akan bisa segera dikirimkan &amp; dinikmati.\"</p> <p>Amel mengaku bahwa dia sangat senang sekali reaksi orang ketika pertama kali mencobai Nasi Bakar 58 dan berkata \"enak\", \"bumbunya pas\", \"bikin ketagihan\" itu merupakan suatu momen layaknya sebuah penghargaan yang membuat pemilik Nasi Bakar 58 ini makin bersemangat untuk terus memberi yang terbaik.</p> <p style=\"font-style: italic; font-weight: bold;\"> \"Indonesian culinary is very rich in flavor/taste. Let’s explore more Indonesian cooking &amp; love Indonesian foods.\" -Amel</p> </div>"
+		},
+		{
+			"id": "SkQexeNzo29081607",
+			"type": "store",
+			"title": "Vinthaitea",
+			"date": "8/30/2017, 4:36:20 PM",
+			"caption": "Refresh your day, Refresh your mood, Refresh with Vinthaitea.",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/channel/vinthai_tea/images/headline.jpg"
+		},
+		{
+			"id": "Q5NJj8T5X17123419",
+			"type": "article",
+			"title": "The FAN's Kitchen & Pastry",
+			"date": "9/6/2017, 4:36:20 PM",
+			"caption": "We show quality not only quantity.",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/channel/fans_kithen/images/fans_headline.jpg",
+			"quote": "Memiliki kesamaan hobi makan dari kecil, bertemu dan menjadi partner saat mengenyam pendidikan perhotelan, serta ambisi yang sama untuk menjadi entrepreneur tidak hanya menjadikan Thomas dan Eva saling jatuh hati, namun juga melahirkan bisnis kuliner yang mereka sebut The FAN’S Kitchen & Pastry.",
+			"html": "<div> <p>Memiliki kesamaan hobi makan dari kecil, bertemu dan menjadi partner saat mengenyam pendidikan perhotelan, serta ambisi yang sama untuk menjadi entrepreneur tidak hanya menjadikan Thomas dan Eva saling jatuh hati, namun juga melahirkan bisnis kuliner yang mereka sebut <a href=\"https://www.backtokimi.com/cdetail/SkQexeNzo29081608\" target=\"_blank\" style=\"font-weight: bold; color:#ff6600\">The FAN’S Kitchen &amp; Pastry</a>.</p> <img src=\"https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/profile/thomas_eva/images/thomas_eva_1.jpg\" width=\"100%\"> <p>Bisnis ini dimulai ketika Thomas dan Eva lulus dari Sekolah Tinggi Pariwisata 3 tahun lalu. Pasangan yang suka sekali traveling ini, yakin bahwa semua dimulai tidak hanya dengan kata “ingin”, namun juga harus disertakan tekad dan aksi untuk terus berkreasi, sehingga tercipta varian rasa dan sajian makanan lainnya untuk terus ekspansi, seperti pasta, cemilan ringan, cake dan pie, kue kering, hingga minuman.</p> <img src=\"https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/profile/thomas_eva/images/thomas_eva_2.jpg\" width=\"100%\"> <p>Dan semua produk The FAN’S Kitchen &amp; Pastry mereka buat secara handmade. Pasangan yang sering disebut Bos GOPANG (Pangsit Goreng) ini, yakin bahwa dibalik produk yang enak dan menjadi kesukaan banyak orang, berasal dari kualitas bahan-bahan yang bermutu baik serta ketekunan dan kegigihan melewati trial and error.</p> <img src=\"https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/profile/thomas_eva/images/popasta.jpg\" width=\"100%\"> <p style=\"text-align: left\">Thomas dan Eva membagikan resep <a href=\"https://www.backtokimi.com/pdetail/xm5AseS9nHq8qAczx\" target=\"_blank\" style=\"font-weight: bold; color:#ff6600\">Popasta Pie</a> yang menjadi produk favorit mereka. Bahan:<br> - Bawang bombay, bawang putih<br> - Daging sapi giling<br> - Tomat<br> - Saos bolognese, bubuk oregano, bubuk basil<br> - Keju parmesan, keju mozarella<br> - Bubuk paprika, gula, garam, lada, dan minyak sayur<br></p> <p style=\"text-align: left\"> <strong>Cara membuatnya</strong> :<br> Rebus rigatoni, kemudian tiriskan. <br>Untuk saus Popasta Pie, siapkan penggorengan dengan minyak dan panaskan, lalu tumis bawang bombay, bawang putih. Tunggu hingga berubah warna menjadi kekuningan. <br>Lalu masukan daging sapi, tumis kembali hingga matang. Lalu masukkan keju parmesan, bubuk oregano, bubuk basil, gula, garam dan lada. Gunakan wadah silinder untuk mencetak pasta menjadi pie. Lapiskan permukaan wadah dengan alluminium foil. Lalu mulai tuang sedikit saus yang sudah matang. Setelah itu susun rigatoni yang sudah ditumis secara vertikal hingga menutupi semua permukaan wadah. Tuang saus pasta pie diatasnya. Setelah itu beri keju mozarella dan tabur bubuk oregano, basil dan paprika. Panggang dalam oven dengan api atas bawah. Tunggu hingga warna permukaan keju mozarella berubah menjadi kecoklatan. Dan walaaa Popasta Pie Rigatoni filling siap dinikmati.</p> <p style=\"font-style: italic; font-weight: bold;\"> \"But the secret ingredient is always love. Cause love is not only yummy for yourself but for others.\"</p> </div>"
+		},
+		{
+			"id": "SkQexeNzo29081606",
+			"type": "store",
+			"title": "LL Ball",
+			"date": "9/6/2017, 4:36:20 PM",
+			"caption": "Good Food is all the sweeter when shared with Good Friends.",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/channel/llball/images/llball.jpg"
+		},
+		{
+			"id": "SkQexeNzo29081605",
+			"type": "store",
+			"title": "Bakmi 48",
+			"date": "9/6/2017, 4:36:20 PM",
+			"caption": "Close your eyes, feel it. The force will always guide you to this.",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/bakmi48/images/bakmi48.jpg"
+		},
+		{
+			"id": "SkQexeNzo29081611",
+			"type": "store",
+			"title": "Nasi Kotak Bang Gun",
+			"date": "9/6/2017, 4:36:20 PM",
+			"caption": "Cita Rasa Nusantara.",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/nasi_kotak_bang_gun/images/banners_bangGun.jpg"
+		},
+		{
+			"id": "SkQexeNzo29081613",
+			"type": "store",
+			"title": "Precious Kitchen",
+			"date": "9/6/2017, 4:36:20 PM",
+			"caption": "We Serve With Love.",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081613/images/IMG_2499.JPG"
+		},
+		{
+			"id": "SkQexeNzo29081622",
+			"type": "store",
+			"title": "Siomay Bang Pik",
+			"date": "9/6/2017, 4:36:20 PM",
+			"caption": "",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081622/images/logo_bang_pik.jpg"
+		},
+		{
+			"id": "SkQexeNzo29081619",
+			"type": "store",
+			"title": "Happiness Bakery",
+			"date": "9/6/2017, 4:36:20 PM",
+			"caption": "",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/happiness_bakery/images/happiness_bakery.jpg"
+		},
+		{
+			"id": "SkQexeNzo29081618",
+			"type": "store",
+			"title": "Choipan Si Mamak",
+			"date": "9/6/2017, 4:36:20 PM",
+			"caption": "",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/choipan_si_mamak/images/choipan.jpg"
+		},
+		{
+			"id": "Q5NJj8T5X17123424",
+			"type": "article",
+			"title": "Pempek Dos Sriwijaya",
+			"date": "9/6/2017, 4:36:20 PM",
+			"caption": "Traditional Food = Awesome Thing to be tasted",
+			"quote": "Traditional Food = Awesome Thing to be Tasted",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/pempek_dos_sriwijaya/images/pempek_dos_sriwijaya.jpg",
+			"html": "<div> <div class=\"row\"> <div style=\"position: relative;\"> <img src=\"https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/channel/pempek_dos_sriwijaya/images/sriwijaya1.jpg\" width=\"100%\"> </div> <div class=\"col-md-10 col-md-offset-1 first-letter\"> <p>Hijrah ke Jakarta beberapa tahun lalu, membuat Novi Yanti berpikir untuk mulai berbisnis sendiri dan memilih mengembangkan kegiatan memasak yang tidak hanya menjadi rutinitas namun, juga sebagai tambahan pemasukan. Menurut pemilik Pempek Dos Sriwijaya ini, kuliner itu selalu jadi hal yang asik untuk dijelajahi, dikreasikan, dan tentunya diicip-icip. Maka dari itu, Novi memutuskan untuk fokus pada bisnis makanan tradisional Palembang yang merupakan tempat kelahirannya, yaitu pempek.</p> <div class=\"row\"> <div class=\"col-md-6\"> <img src=\"https://s3-ap-southeast-1.amazonaws.com/kimistatic/article/channel/pempek_dos_sriwijaya/images/sriwijaya2.jpg\" width=\"100%\"> </div> <div class=\"col-md-5 col-md-offset-1\"> <p>Semua orang Indonesia kenal dengan pempek, makanan asal Sumatera khususnya Palembang ini memiliki penggemar dimana-mana. Pempek umumnya terbuat dari ikan dan tepung. Namun, wanita yang pernah kursus memasak di salah satu daerah di ibu kota ini mengkombinasikan ikan dan tepung dengan bahan pelengkap lain seperti ebi, pepaya muda (kates), dan telur sebagai isian. Semua produk Pempek Dos Sriwijaya diproses secara handmade di dapur favoritnya. Pembuatan adonan merupakan proses yang paling disukai oleh Novi, karena dalam membuat adonan membutuhkan ketelitian dalam mencampurkan bahan-bahan supaya keunikan rasa tetap terjaga. Novi juga selalu memperhatikan kesegaran setiap bahan yang digunakan untuk memproduksi pempek supaya menghasilkan produk yang dapat mengobati rasa rindu para pencinta pempek Palembang.</p> </div> </div> <p>Dengan berani berinovasi, mempertahankan keunikan rasa, menerima saran dan kritik dari pelanggan, serta mengikuti perkembangan dunia kuliner, Novi berharap akan terus menghidupkan dan memajukan produk Pempek Dos Sriwijaya untuk tetap menjadi produk kesayangan untuk teman diberbagai acara, waktu, dan tempat.</p> <p>\"Yuk explore makanan trandisional Indonesia yang sangat amat beragam dan selalu ngangenin.\" - Novi</p> <div class=\"clearfix maya-small-padding\"></div> </div> </div> </div>"
+		},
+		{
+			"id": "SkQexeNzo29081616",
+			"type": "store",
+			"title": "Lumpia Semarang Enak",
+			"date": "9/6/2017, 4:36:20 PM",
+			"caption": "",
+			"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/lumpia_semarang_enak/images/lumpia_semarang_enak.jpg"
+		}
+	],
+	"stores": [{
+			"id": "SkQexeNzo29081625",
+			"title": "Pempek Tenny",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081625/images/4892D3EA-916C-45C4-B9E7-F5ED3F903E34.jpeg"
+			],
+			"caption": ""
+		},
+		{
+			"id": "SkQexeNzo29081626",
+			"title": "Alana Cake House",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081626/images/F5FBC4EF-83F0-4996-B905-889AF9AA0922.jpeg"
+			],
+			"caption": "Semua pesanan tidak bisa mendadak min. H-1 untuk pemesanan.. karena semua prosesnya made by order ya.."
+		},
+		{
+			"id": "SkQexeNzo29081627",
+			"title": "Dapoer Banjar Jkt",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081627/images/B6FE0960-7688-469F-A006-DF3292D3FECB.jpeg"
+			],
+			"caption": "Dapoer Banjar_Jkt terima Pre Order Bingka Kentang Besar / Mini dan Nasi Bento Anak"
+		},
+		{
+			"id": "SkQexeNzo29081633",
+			"title": "Rumah Makan Asiang 9",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081633/images/asiang.png"
+			],
+			"caption": "Chinese Food (ala Medan) 🥡🥟🍜🍤🍗"
+		},
+		{
+			"id": "SkQexeNzo29081602",
+			"title": "Nasi Bakar 58",
+			"images": [
+				"https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/nasi_bakar_58/images/nasi_bakar-logo.jpg"
+			],
+			"caption": "Nasi Bakar 58 adalah nasi berbumbu santan yang sangat bercita rasa Indonesia dengan isi, ayam, teri, atau ikan yang memiliki aroma khas karena proses pembakaran yang tradisional dengan bungkusan daun pisang."
+		},
+		{
+			"id": "SkQexeNzo29081632",
+			"title": "Rendang Rere",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081632/images/banner-rendang.jpg",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081632/images/banner-rendang-rere-di-kimi-3.jpg"
+			],
+			"caption": "RendangRere merupakan rendang yang dibuat dari daging sapi segar kualitas premium dengan citarasa khas Sumatera Barat yang kental, diramu dengan rempah-rempah berkualitas yang menggugah selera. Sangat cocok untuk konsumsi menu keluarga sehari-hari, bekal perjalanan, hidangan sahur saat menjalani puasa, hari raya, bekal ibadah umroh/haji. Paling klop dimakan bersamaan dengan nasi panas. * Tanpa MSG * Tanpa bahan pengawet"
+		},
+		{
+			"id": "SkQexeNzo29081624",
+			"title": "Choipan Mami Tio",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081624/images/choipan_mamitio.jpg"
+			],
+			"caption": "RendangRere merupakan rendang yang dibuat dari daging sapi segar kualitas premium dengan citarasa khas Sumatera Barat yang kental, diramu dengan rempah-rempah berkualitas yang menggugah selera. Sangat cocok untuk konsumsi menu keluarga sehari-hari, bekal perjalanan, hidangan sahur saat menjalani puasa, hari raya, bekal ibadah umroh/haji. Paling klop dimakan bersamaan dengan nasi panas. * Tanpa MSG * Tanpa bahan pengawet"
+		},
+		{
+			"id": "SkQexeNzo29081635",
+			"title": "Ayam Tangkap Mamah Janny",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081635/images/CBE332C4-07AE-4D44-98CB-C3EB36FED6D1.jpeg",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081635/images/S__757161988.jpg",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081635/images/S__757161987.jpg",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081635/images/S__757161986.jpg",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081635/images/S__757161990.jpg"
+			],
+			"caption": ""
+		},
+		{
+			"id": "SkQexeNzo29081631",
+			"title": "Bakpia Bagong",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081631/images/bagong.jpg"
+			],
+			"caption": "https://www.youtube.com/watch?v=ocdPsyxFexM&t=9s"
+		},
+		{
+			"id": "SkQexeNzo29081615",
+			"title": "Pempek Dos Sriwijaya",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081615/images/IMG_20170913_002748.jpg",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081615/images/IMG_20170912_184008.jpg",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081615/images/IMG_20170913_013042.jpg",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081615/images/IMG_20170715_011453_043.jpg"
+			],
+			"caption": "Siapa yang tak kenal dengan Pempek,  ya salah satu makanan khas dari Palembang ini memang terkenal dimana mana, namun bagi sebagian orang yg tinggal di jakarta sangat sulit menemukan pempek yang asli rasa Palembang, oleh sebab itu kami hadir di Jakarta dengan membawa cita rasa asli sriwijaya,  sehingga bagi yang mencoba pempekdossriwijaya akan mengenang kembali rasa asli cuko Palembang. Dengan kata lain Pempekdossriwijaya akan mengobati kerinduan akan kampung halaman."
+		},
+		{
+			"id": "SkQexeNzo29081629",
+			"title": "Picang Nugget",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081629/images/picang_nugget.jpg"
+			],
+			"caption": "Picang Nugget Pinugg_ adalah pisang yang diolah menjadi nugget dari bahan berkualitas . Serta dibuat tanpa bahan pengawet dan pemanis buatan. Dengan harga terjangkau dan pisangnya yang terasa, membuat pelanggan ketagihan."
+		},
+		{
+			"id": "SkQexeNzo29081601",
+			"title": "Nasi Koko",
+			"images": [
+				"https://s3-ap-southeast-1.amazonaws.com/maya.engine/channel/SkQexeNzo29081601/images/nasi_koko_channel.jpg"
+			],
+			"caption": "Juaranya Nasi Khas Bali ada di sini"
+		},
+		{
+			"id": "SkQexeNzo29081607",
+			"title": "Vinthaitea",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081607/images/IMG_2327.PNG"
+			],
+			"caption": "Minuman andalan dengan sentuhan cita rasa Thailand."
+		},
+		{
+			"id": "SkQexeNzo29081606",
+			"title": "LL Ball",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081606/images/IMG-20170719-WA0078.jpg",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081606/images/IMG-20170719-WA0074.jpg",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081606/images/IMG-20170719-WA0080.jpg"
+			],
+			"caption": "Tersedia bola ubi isi coklat, kacang, stawberry, dan kismis. . . . Bola kentang dan bola kentang isi keju. . . . Bola ayam dan bola ayam isi keju."
+		},
+		{
+			"id": "SkQexeNzo29081605",
+			"title": "Bakmi 48",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081605/images/04F77EA9-FA62-45AB-B425-1C1087DEFC0E.jpg",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081605/images/IMG_5335.JPG",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081605/images/IMG_6308.JPG",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081605/images/IMG_6264.JPG",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081605/images/IMG_6045.JPG",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081605/images/IMG_2478.PNG"
+			],
+			"caption": "Homemade noodle with tasty toppings."
+		},
+		{
+			"id": "SkQexeNzo29081611",
+			"title": "Nasi Kotak Bang Gun",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081605/images/04F77EA9-FA62-45AB-B425-1C1087DEFC0E.jpg"
+			],
+			"caption": "Kami menyediakan makanan untuk acara meeting, arisan, gathering atau utk menu makan siang/malam anda dengan cita rasa nusantara dan bumbu rempah alami. Nasi yang disajikan sudah dibungkus kertas nasi utk menjadi kualitas nasi tetep pulen. Dalam satu box sudah lengkap sendok dan tissue sehingga praktis digunakan. Kami siap meeting pesanan 1000 box per hari"
+		},
+		{
+			"id": "SkQexeNzo29081613",
+			"title": "Precious Kitchen",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081613/images/IMG_2499.JPG",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081613/images/IMG_2500.JPG",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081613/images/IMG_2501.JPG",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081613/images/IMG_2502.JPG"
+			],
+			"caption": "We serve every kind of food menu as long as we can make 😊 don't hesitate to let us know your needs we will give you the best product with the best service. Your satisfaction is our priority."
+		},
+		{
+			"id": "SkQexeNzo29081622",
+			"title": "Siomay Bang Pik",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081622/images/logo_bang_pik.jpg"
+			],
+			"caption": "Order H -1 ya"
+		},
+		{
+			"id": "SkQexeNzo29081619",
+			"title": "Happiness Bakery",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081619/images/XinFu_Chef.jpg",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081619/images/S_6871024701378.jpg",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081619/images/S_6871024714802.jpg"
+			],
+			"caption": "Bake with HAPPINESS, Share with LOVE Breads | Cake | Cookies https://www.instagram.com/happinessbakery.id/"
+		},
+		{
+			"id": "SkQexeNzo29081618",
+			"title": "Choipan Si Mamak",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081618/images/C0D3871E-E979-4A07-A007-C7FB5791F637.jpeg",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081618/images/C0D3871E-E979-4A07-A007-C7FB5791F637.jpeg",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081618/images/DEFB349B-4AFF-4F92-BC14-11BDAC0D0EF2.jpeg"
+			],
+			"caption": ""
+		},
+		{
+			"id": "SkQexeNzo29081616",
+			"title": "Lumpia Semarang Enak",
+			"images": [
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081616/images/DP_02a.jpg",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081616/images/IMG_20170718_114611_(700_pixel_kimi).jpg",
+				"https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081616/images/IMG_20170718_113203_(700_pixel_kimi).jpg"
+			],
+			"caption": "Lumpia Semarang adalah makanan khas Kota Semarang yang berisi rebung, telur, ayam, dan udang yang dibungkus oleh lapisan kulit lumpia yang renyah. Disajikan dengan pelengkapnya yaitu saus bawang, acar timun, dan cabai rawit. Lumpia Semarang produksi rumahan ini dijamin halal dan higienis. Ciri khas Lumpia Semarang Enak adalah cita rasanya yang tradisional dan rebungnya yang tidak berbau pesing :) **Pre Order H-2 (untuk pemesanan 30-50 buah) Pre Order H-7 (untuk pemesanan di atas 50 buah)"
+		}
+	],
+	"products": [{
+			"id": "QjFmF3zvherr9Bqo9",
+			"store": {
+				"id": "SkQexeNzo29081625",
+				"name": "Pempek Tenny",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081625/images/4892D3EA-916C-45C4-B9E7-F5ED3F903E34.jpeg"
+			},
+			"title": "Pempek Paket 2 C",
+			"price": "IDR 223.000",
+			"per": "Paket (2 kg)",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081625/product/QjFmF3zvherr9Bqo9/images/pempek_paket_c.jpg",
+			"description": "3 Pempek Besar + 13 Pempek Campur (sudah digoreng). Bisa langsung dikonsumsi. Tahan hingga 5 hari jika disimpan dalam kulkas.",
+			"note": {
+				"minimum_order": 1,
+				"fastest_delivery": "Besok pukul 09.30"
+			}
+		},
+		{
+			"id": "RzXbaeWT7aq4xtjwA",
+			"store": {
+				"id": "SkQexeNzo29081613",
+				"name": "Precious Kitchen",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081613/images/IMG_2499.JPG"
+			},
+			"title": "Baklava (20x20cm)",
+			"price": "IDR 70.000",
+			"per": "box",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081613/product/RzXbaeWT7aq4xtjwA/images/baklava.jpg",
+			"description": "",
+			"note": {
+				"minimum_order": 1,
+				"fastest_delivery": "Besok pukul 09.30"
+			}
+		},
+		{
+			"id": "GeDddmNGdg7g9TPbu",
+			"store": {
+				"id": "SkQexeNzo29081601",
+				"name": "Precious Kitchen",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081613/images/IMG_2499.JPG"
+			},
+			"title": "Nasi Ikan Suwir",
+			"price": "IDR 22.000",
+			"per": "Box",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081601/product/GeDddmNGdg7g9TPbu/images/nasi_ikan_suwir.jpg",
+			"description": "Nasi pulen disertakan ikan suwir, kentang teri balado, telur iris, sambal dabu-dabu.",
+			"note": {
+				"minimum_order": 10,
+				"fastest_delivery": "Besok pukul 09.30"
+			}
+		},
+		{
+			"id": "mA8ZJzQkDJAXFL7Ka",
+			"store": {
+				"id": "SkQexeNzo29081627",
+				"name": "Dapoer Banjar Jkt",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081627/images/B6FE0960-7688-469F-A006-DF3292D3FECB.jpeg"
+			},
+			"title": "Kue Bingka Kentang Mini (Original)",
+			"price": "IDR 22.000",
+			"per": "box (10pcs/box)",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081627/product/mA8ZJzQkDJAXFL7Ka/images/kue_bingka_kentang_mini.jpg",
+			"description": "Kue tradisional Banjarmasin berbahan dasar kentang, santan, telur dan gula. Diameter 8cm per pcs. Maks. tahan 5 hari jika disimpan dalam kulkas.",
+			"note": {
+				"minimum_order": 2,
+				"fastest_delivery": "Besok pukul 09.30"
+			}
+		},
+		{
+			"id": "yMAymckkY2aWftx7W",
+			"store": {
+				"id": "SkQexeNzo29081622",
+				"name": "Siomay Bang Pik",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081622/images/logo_bang_pik.jpg"
+			},
+			"title": "Paket C Siomay Aja",
+			"price": "IDR 90.000",
+			"per": "box (30pcs/box)",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081622/product/yMAymckkY2aWftx7W/images/paket_c_siomay.jpg",
+			"description": "Paket B terdiri dari 15 Siomay Bulat 15 Siomay Telor. Tahan 3-5 hari jika di simpan di dalam kulkas. Harap lakukan pemesanan H -1 ya kakak.",
+			"note": {
+				"minimum_order": 1,
+				"fastest_delivery": "Besok pukul 09.30"
+			}
+		},
+		{
+			"id": "F5thZjQ9G2LAz3YNW",
+			"store": {
+				"id": "SkQexeNzo29081626",
+				"name": "Alana Cake House",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081626/images/F5FBC4EF-83F0-4996-B905-889AF9AA0922.jpeg"
+			},
+			"title": "Cinnamon Rolls Cream Cheese",
+			"price": "IDR 125.000",
+			"per": "pan",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081626/product/F5thZjQ9G2LAz3YNW/images/cinnamon_rolls.jpg",
+			"description": "Isi 9 rolls. Tanpa bahan pengawet & pewarna. Maks. tahan 5 hari jika disimpan dalam kulkas.",
+			"note": {
+				"minimum_order": 1,
+				"fastest_delivery": "Besok pukul 09.30"
+			}
+		},
+		{
+			"id": "cL66zCMpNQPXMCrFe",
+			"store": {
+				"id": "SkQexeNzo29081632",
+				"name": "Rendang Rere",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081632/images/rendangRere.jpg"
+			},
+			"title": "Rendang Rere 250 gr",
+			"price": "IDR 95.000",
+			"per": "box",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081632/product/cL66zCMpNQPXMCrFe/images/250.jpeg",
+			"description": "RendangRere merupakan rendang yang dibuat dari daging sapi segar kualitas premium dengan citarasa khas Sumatera Barat yang kental, diramu dengan rempah-rempah berkualitas yang menggugah selera. Sangat cocok untuk konsumsi menu keluarga sehari-hari, bekal perjalanan, hidangan sahur saat menjalani puasa, hari raya, bekal ibadah umroh/haji. Paling klop dimakan bersamaan dengan nasi panas. Tanpa MSG & tanpa bahan pengawet. Tahan 2 minggu diluar kulkas.",
+			"note": {
+				"minimum_order": 4,
+				"fastest_delivery": "Besok pukul 09.30"
+			}
+		},
+		{
+			"id": "E4FnZk8hmkJWsz3db",
+			"store": {
+				"id": "SkQexeNzo29081602",
+				"name": "Nasi Bakar 58",
+				"image": "https://s3-ap-southeast-1.amazonaws.com/kimistatic/channel/nasi_bakar_58/images/nasi_bakar-logo.jpg"
+			},
+			"title": "Paket Nasi Tahu Tempe",
+			"price": "IDR 29.000",
+			"per": "Box",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081602/product/E4FnZk8hmkJWsz3db/images/nasi_tahu_tempe.jpg",
+			"description": "Nasi Bakar + Tahu + Tempe + Lalapan",
+			"note": {
+				"minimum_order": 1,
+				"fastest_delivery": "Besok pukul 09.30"
+			}
+		},
+		{
+			"id": "8QHdY85brtL9EMS4g",
+			"store": {
+				"id": "SkQexeNzo29081615",
+				"name": "Pempek Dos Sriwijaya",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081615/images/IMG_20170913_002748.jpg"
+			},
+			"title": "Pempek Pistel",
+			"price": "IDR 3.000",
+			"per": "Box",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081615/product/8QHdY85brtL9EMS4g/images/pempek_pistel.jpg",
+			"description": "Pempek Pistel, merupakan salah satu jenis pempek yg terbuat dari tepung dan pepaya muda (kates). Dengan rasa yg gurih dan rasa cuko yg pedas asli Palembang akan membuat penikmat pempek menjadi ketagihan. Selamat Mencoba.. Keterangan - Produk dalam kondisi sudah digoreng. - dapat bertahan selama 20 jam suhu ruangan. - sudah termasuk cuko",
+			"note": {
+				"minimum_order": 10,
+				"fastest_delivery": "Besok pukul 09.30"
+			}
+		},
+		{
+			"id": "7bLkxZuTBFgzYcMvg",
+			"store": {
+				"id": "SkQexeNzo29081629",
+				"name": "Picang Nugget",
+				"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081629/images/picang_nugget.jpg"
+			},
+			"title": "Pinugg Original Big",
+			"price": "IDR 18.000",
+			"per": "box (18 pcs/box)",
+			"image": "https://jcha.s3-ap-southeast-1.amazonaws.com/backtokimi.com/channel/SkQexeNzo29081629/product/7bLkxZuTBFgzYcMvg/images/WhatsApp_Image_2017-10-27_at_10.10.21_PM_(3).jpeg",
+			"description": "Pisang Nugget Tanpa Topping",
+			"note": {
+				"minimum_order": 2,
+				"fastest_delivery": "Besok pukul 09.30"
+			}
+		}
+	]
+}
